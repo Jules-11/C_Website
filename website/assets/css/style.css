@@ -1,3 +1,6 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+p{
+    text-align: justify;
 }
